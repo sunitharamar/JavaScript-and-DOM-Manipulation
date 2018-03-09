@@ -20,6 +20,8 @@ city
 state
 country
 shape
+
+
 Level 3: Paginated Table
 Complete all of Level 2 criteria.
 
@@ -29,16 +31,3 @@ These changes should happen in the DOM using JavaScript, therefore the user shou
 
 Dataset
 UFO Sightings Data
-Assessment
-Your final product will be assessed on the following metrics:
-
-Completion of all steps in chosen level
-
-Visual attraction
-
-Usability
-
-Good luck!
-
-Copyright
-Coding Boot Camp (C) 2016. All Rights Reserved.
